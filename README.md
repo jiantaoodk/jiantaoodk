@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jiantaoodk</h1>
-<h3 align="center">A hard postgraduate from China</h3>
+<h3 align="center">A postgraduate from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiantaoodk&label=Profile%20views&color=0e75b6&style=flat" alt="jiantaoodk" /> </p>
 
